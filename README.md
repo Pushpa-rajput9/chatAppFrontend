@@ -28,3 +28,4 @@ Every piece of UI is a small, single-purpose, reusable component; all
 data-fetching/socket logic lives in hooks so pages and components stay
 declarative.
 # chatAppFrontend
+# chatAppFrontend
